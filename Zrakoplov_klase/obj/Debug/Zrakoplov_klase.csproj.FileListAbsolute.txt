@@ -1,0 +1,8 @@
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\bin\Debug\Zrakoplov_klase.exe.config
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\bin\Debug\Zrakoplov_klase.exe
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\bin\Debug\Zrakoplov_klase.pdb
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\obj\Debug\Zrakoplov_klase.csproj.AssemblyReference.cache
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\obj\Debug\Zrakoplov_klase.csproj.SuggestedBindingRedirects.cache
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\obj\Debug\Zrakoplov_klase.csproj.CoreCompileInputs.cache
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\obj\Debug\Zrakoplov_klase.exe
+D:\Codes\Zrakoplov_klase\Zrakoplov_klase\obj\Debug\Zrakoplov_klase.pdb
